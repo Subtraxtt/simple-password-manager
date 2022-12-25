@@ -1,0 +1,1 @@
+Put this file into a folder by itself for the passwords to save. Also, Most questions can only be answered with Y or N. 
